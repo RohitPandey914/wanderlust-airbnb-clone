@@ -14,4 +14,4 @@ This is a full stack project currently under development.
 - MongoDB
 
 ## Status
-🚧 Work in Progress
+🚧 Work in Progress.
